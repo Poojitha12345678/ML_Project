@@ -1,1 +1,2 @@
 ## End to End machine learning project.
+ML_Project is a machine learning project aimed at how student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course. This project utilizes linear regression, decision trees, KNeighborsRegression , Random Forest , Adaboost, SVR , Ridge Lasso.The project demonstrates how to apply machine learning algorithms to real-world data and provides valuable insights.
